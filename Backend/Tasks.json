@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Marian",
+        "description": "asfgasf",
+        "status": true,
+        "start_time": "Now",
+        "end_time": "Later"
+    }
+]
